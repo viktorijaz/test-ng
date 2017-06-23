@@ -1,0 +1,6 @@
+Protractor results for: 2017-6-23 11:58:49
+
+AppDir:./
+  Suite: QuickStart E2E Tests -- passed
+    passed - should display: Tour of Heroes 2
+
