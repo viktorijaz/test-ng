@@ -6,6 +6,7 @@
 /e2e/*e2e-spec.js.map
 /tmp
 /out-tsc
+/_test-output
 
 # dependencies
 /node_modules
